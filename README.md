@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **QuickMarket**
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **docker**
 
 - 💬 Ask me about **react**
 
