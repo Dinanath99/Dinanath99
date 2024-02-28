@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
-<h3 align="center">A passionate MERN STACK developer from Nepal</h3>
-
 
 - 🔭 I’m currently working on **QuickMarket**
 
