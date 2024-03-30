@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
 
-- 🔭 I’m currently working on **QuickMarket**
+- 🔭 I’m currently working on **VIDEOTUBE backend project**
 
 - 🌱 I’m currently learning **docker**
 
