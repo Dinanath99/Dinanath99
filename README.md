@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **VIDEOTUBE backend project**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **react**
 
