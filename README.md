@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
 
  --I’m currently working on **JobFlow Full Stack Project**
-<p> - - 🌱 I’m currently learning <strong>Spring Boot</strong>
+<p> - - 🌱 I’m currently learning <strong>GenAI</strong>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
