@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
 
- --I’m currently working on **JobFlow Full Stack Project**
+ --I’m currently working on **LearnX Full Stack Project**
 <p> - - 🌱 I’m currently learning <strong>GenAI</strong>
 
   </p>
