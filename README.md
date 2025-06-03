@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a
-   https://www.linkedin.com/in/dinanath-mukhiya/"
+  <a href="https://www.linkedin.com/in/dinanath-mukhiya/"
     target="_blank"
     rel="noreferrer"
   >
