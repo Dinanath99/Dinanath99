@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
-<h3 align="center">🚀 Full Stack Developer | Scalable Backend Engineer | Web3 Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Scalable Backend Engineer </h3>
 
 ---
 
