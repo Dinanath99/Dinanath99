@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Building **LearnX – Full Stack Platform**
+- 🔭 Building **AI course generator – Full Stack Platform**
 - 🌱 Learning **GenAI, Blockchain & System Design**
 - 💬 Ask me about **Node.js, NestJS, Next.js, Backend Architecture**
 - ⚡ Focused on building **scalable, production-grade applications**
