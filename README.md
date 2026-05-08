@@ -88,8 +88,7 @@
 ---
 
 ### 🔥 Current Focus
-- 🚀 Building **Next.js + NestJS production apps**
+- 🚀 Building **GenAI + NestJS production apps**
 - ⚡ Exploring **high-performance backend (Redis, caching, system design)**
 - 🤖 Learning **GenAI integration**
 - 🔗 Expanding into **Web3 & decentralized apps**
-- 💼 Preparing for **Freelance & Remote Backend Roles**
