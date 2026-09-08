@@ -2,12 +2,8 @@
 
 <h3 align="center">🚀 Full Stack Developer | AI Engineering Enthusiast</h3>
 
-<p align="center">
-Building production systems & AI tools.<br/>
-Currently exploring LLMs, VLMs, AI inference & AI agents.
-</p>
+<p align="center"> Building production systems & AI tools.<br/> Currently exploring LLMs, AI inference, & AI agents. </p>
 
----
 
 ### 👨‍💻 About Me
 
