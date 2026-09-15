@@ -1,87 +1,65 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI Engineering Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | AI Engineering</h3>
 
-<p align="center"> Building production systems & AI tools.<br/> Currently exploring LLMs, AI inference, & AI agents. </p>
+<p align="center">
+  Building production systems & AI-powered tools.<br/>
+  Currently building AI projects and learning Rust.
+</p>
 
+---
 
 ### 👨‍💻 About Me
 
-* 🚀 Full Stack Developer focused on **scalable applications**
-* ⚡ Strong in **Node.js, NestJS, Next.js, Redis, Docker & AWS**
-* 🏗️ Interested in **System Design & Backend Architecture**
-* 🤖 Currently exploring **AI Engineering** and building AI-powered projects
-* 🔗 Exploring **Blockchain & Web3**
-* 🎯 Focused on building **production-ready systems**
+* 🚀 Software Engineer focused on **backend systems, scalable applications & AI engineering**
+* ⚙️ Strong in **Node.js, NestJS, TypeScript, Next.js, Redis, Docker & AWS**
+* 🏗️ Interested in **System Design, Backend Architecture & Distributed Systems**
+* 🤖 Currently building **AI-powered applications with LLMs, LangChain & AI agents**
+* 🦀 Currently learning **Rust**
+* 🎯 Focused on building **production-ready software**
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 💻 Frontend
-
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-</p>
-
-#### ⚙️ Backend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://nestjs.com/img/logo-small.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40"/>
-</p>
-
-#### 🗄️ Databases & Caching
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-</p>
-
-#### ☁️ DevOps & Cloud
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45"/>
 </p>
 
-#### 🤖 AI Engineering
+**Backend & APIs:** Node.js • NestJS • Express • TypeScript • Python
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
+**Frontend:** React • Next.js • Tailwind CSS
 
-**LLMs • VLMs • AI Inference • AI Agents • Generative AI • AI Automation**
+**Data:** PostgreSQL • Prisma • MongoDB • MySQL • Redis
 
-#### 🔗 Blockchain & Web3
+**Cloud & DevOps:** AWS • Docker • Nginx • GitHub Actions • Linux • Git
 
-<p>
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="40"/>
-</p>
-
-**Smart Contracts • Web3 • dApps**
+**AI Engineering:** LLMs • LangChain • AI Agents • AI Inference • Generative AI
 
 ---
 
 ### 🚀 Current Focus
 
-**Building production systems & AI tools**
+**AI Engineering + Production Software**
 
-**Currently exploring:**
-LLMs • VLMs • AI Inference • AI Agents • System Design • AWS • Redis • Docker
+Currently building AI-powered applications and learning:
+
+**LLMs • LangChain • AI Agents • AI Inference • System Design • Rust • AWS • Redis • Docker**
 
 ---
 
