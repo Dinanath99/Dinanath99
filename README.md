@@ -75,16 +75,25 @@ Currently building AI-powered applications and learning:
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinanath99&layout=compact" />
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="Dinanath Mukhiya GitHub Stats"
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dinanath99&show_icons=true" />
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Dinanath Mukhiya Top Languages"
+  />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinanath99" />
+<p align="center">
+  <img
+    src="./profile/streak.svg"
+    alt="Dinanath Mukhiya GitHub Streak"
+  />
 </p>
 
 ---
