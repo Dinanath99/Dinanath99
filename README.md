@@ -73,29 +73,14 @@ Currently building AI-powered applications and learning:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Dinanath Mukhiya GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="./profile/top-langs.svg"
-    alt="Dinanath Mukhiya Top Languages"
-  />
-</p>
+<img src="https://streak-stats.demolab.com?user=dinanath99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="Dinanath Mukhiya GitHub Streak"
-  />
-</p>
+</div>
 
 ---
 
-<h3 align="center">🚀 Build • Learn • Scale</h3>
+<h3 align="center">🚀 Learn • Build • Scale</h3>
