@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dinanath Mukhiya</h1>
 
-<h3 align="center">🚀 Software Engineer | AI Engineering</h3>
+<h3 align="center">🚀 Software Engineer</h3>
 
 <p align="center">
   Building production systems & AI-powered tools.<br/>
-  Currently building AI projects and learning Rust.
+  Currently building AI projects.
 </p>
 
 ---
@@ -15,7 +15,6 @@
 * ⚙️ Strong in **Node.js, NestJS, TypeScript, Next.js, Redis, Docker & AWS**
 * 🏗️ Interested in **System Design, Backend Architecture & Distributed Systems**
 * 🤖 Currently building **AI-powered applications with LLMs, LangChain & AI agents**
-* 🦀 Currently learning **Rust**
 * 🎯 Focused on building **production-ready software**
 
 ---
@@ -38,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="45"/>
 </p>
 
 **Backend & APIs:** Node.js • NestJS • Express • TypeScript • Python
@@ -49,7 +47,7 @@
 
 **Cloud & DevOps:** AWS • Docker • Nginx • GitHub Actions • Linux • Git
 
-**AI Engineering:** LLMs • LangChain • AI Agents • AI Inference • Generative AI
+**AI Engineering:** LLMs • LangChain • AI Agents • Generative AI
 
 ---
 
@@ -59,7 +57,7 @@
 
 Currently building AI-powered applications and learning:
 
-**LLMs • LangChain • AI Agents • AI Inference • System Design • Rust • AWS • Redis • Docker**
+**LLMs • LangChain • AI Agents • System Design • AWS • Redis • Docker**
 
 ---
 
